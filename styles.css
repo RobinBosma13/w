@@ -6,6 +6,32 @@ body {
     background-color: #fff;
     margin: 0;
 }
+
+#services{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 600px;
+}
+
+.service{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    height: 100px;
+    margin: 10%;
+    border: 3px solid black;
+    padding: 10px;
+}
+
+.titel{
+    font-size: 200%;
+    font-weight: bold;
+}
+
+.tekst{
+    font-size: 150%;
+}
 .logo img {
     width: 150px;
     height: 80px;
