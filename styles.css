@@ -2,7 +2,7 @@ body {
     margin: 0;
 }
 
-.hero {
+#hero {
     position: absolute;
     font-size: 29px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
