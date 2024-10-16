@@ -1,3 +1,13 @@
 body {
     margin: 0;
 }
+
+.hero {
+    position: absolute;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
+}
